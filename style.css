@@ -1,0 +1,31 @@
+li{
+    background-color: coral;
+    color: slateblue;
+}
+button{
+    background-color: transparent;
+    bolder;
+}
+h2{
+    font-size: inherit;
+    font-weight: bolder;
+    color: maroon;
+}
+h1{
+    color: maroon;
+}
+button{
+    background-color: lavender;
+    color: navy;
+}
+body{
+    background-color: beige;
+    font-family: arial;
+}
+nav{
+    text-transform: uppercase;
+    font-family: monospace;
+}
+T:hover {
+    color: blue;
+}
